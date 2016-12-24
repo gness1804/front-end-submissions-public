@@ -6,3 +6,6 @@ Rounds are:
   3. No-JS Parallax
   4. Background Video
  
+
+[Graham Nessler Round 1](https://github.com/gness1804/parallax/tree/gn-round-1)
+[Graham Nessler Round 3](https://github.com/gness1804/parallax/tree/gn-round-3)
